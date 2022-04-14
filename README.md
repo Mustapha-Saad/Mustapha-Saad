@@ -1,6 +1,6 @@
 ![Banner Logo](./assets/images/banner.png "Crafting various website features for the fun of it")
 
-<img src="./assets/emojis/about-me.gif"> ##About me
+
 
 ### Hi I am Mustapha Saad 👋
 <!--
