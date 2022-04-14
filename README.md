@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Crafting various website features for the fun of it](/Images/flat-devices-mockup.png")
+![Crafting various website features for the fun of it]("/Images/flat-devices-mockup.png")
 <!--
 **Mustapha-Saad/Mustapha-Saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
