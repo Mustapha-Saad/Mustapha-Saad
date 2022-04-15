@@ -11,7 +11,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 ![HTML5](https://img.shields.io/badge/HTML5-transparent?logo=HTML5&logoColor=white&color=E34F26 "Learning HTML")
 ![CSS3](https://img.shields.io/badge/CSS3-transparent?logo=HTML5&logoColor=white&color=E34F26 "Learning HTML")
 ![JavaScript](https://img.shields.io/badge/JavaScript-transparent?logo=JavaScript&logoColor=white&color=yellow "Learning JavaScript")
-```bash
+
 ├── app
 │   ├── css
 │   │   ├── **/*.css
@@ -30,7 +30,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 ├── package.json
 ├── bower.json (if using bower)
 └── .gitignore
-```
+
 
 <!--
 **Mustapha-Saad/Mustapha-Saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
