@@ -2,12 +2,10 @@
 
 
 ## 👨‍💻 About me 👨‍💻
-Hi I am Mustapha Sa'ad and a tech enthusiast currently studying computer engineering. I am a self taught full-stack web developer and a web designer and I love to solve problems by building on web solutions.
+Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineering. I am a self taught full-stack web developer and a web designer and I love to solve problems by building on web solutions.
 
-Languages and framework I know and Study
+## ✨ Languages and frameworks I know and study ✨
 
-Top skills:
-1)Frontend
 
 He is a fullstack web developer, and a UI/UX Designer at Upwork where he freelances and helps businesses/individuals like you in building an online solution with modernity to standout amongst competitors.
 
