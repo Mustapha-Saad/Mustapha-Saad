@@ -12,7 +12,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 ![CSS3](https://img.shields.io/badge/CSS3-transparent?logo=CSS3&logoColor=white&color=1572B6 "Learning CSS")
 ![JavaScript](https://img.shields.io/badge/JavaScript-transparent?logo=JavaScript&logoColor=white&color=yellow "Learning JavaScript")
 ![Angular](https://img.shields.io/badge/Angular-transparent?logo=Angular&logoColor=white&color=DD0031 "Learning Angular")
-![React](https://img.shields.io/badge/Angular-transparent?logo=Angular&logoColor=white&color=DD0031 "Learning React")
+![React](https://img.shields.io/badge/React-transparent?logo=React&logoColor=white&color=61DAFB "Learning React")
 ![NodeJs](https://img.shields.io/badge/NodeJs-transparent?logo=Node.js&logoColor=white&color=339933 "Learning NodeJs")
 
 <!--
