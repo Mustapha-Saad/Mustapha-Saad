@@ -8,11 +8,12 @@
 Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineering. I am a self taught full-stack web developer, a web designer, and a freelancer where I get to solve problems by building on web solutions. I wish to contribute to open source projects more often on anything concerning the web, so if you have one, please do contact me and I'll be more than willing to help.
 
 ## ✨ Languages and frameworks I know and study ✨
-![HTML5](https://img.shields.io/badge/HTML5-transparent?logo=HTML5&logoColor=white&color=E34F26 "Learning HTML")
+
 ![CSS3](https://img.shields.io/badge/CSS3-transparent?logo=HTML5&logoColor=white&color=E34F26 "Learning HTML")
 ![JavaScript](https://img.shields.io/badge/JavaScript-transparent?logo=JavaScript&logoColor=white&color=yellow "Learning JavaScript")
 
-├── app
+```bash
+├── ![HTML5](https://img.shields.io/badge/HTML5-transparent?logo=HTML5&logoColor=white&color=E34F26 "Learning HTML")
 │   ├── css
 │   │   ├── **/*.css
 │   ├── favicon.ico
@@ -30,7 +31,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 ├── package.json
 ├── bower.json (if using bower)
 └── .gitignore
-
+```
 
 <!--
 **Mustapha-Saad/Mustapha-Saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
