@@ -18,7 +18,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 ![Sass](https://img.shields.io/badge/Sass-transparent?logo=sass&logoColor=white&color=CC6699 "Learning Sass")
 ![Sass](https://img.shields.io/badge/Sass-transparent?logo=sass&logoColor=white&color=CC6699 "Learning Sass")
 
-![Open To Learning New Ideas As Well](./assets/images/open-to-learning.gif "Open To Learning New Ideas As Well")
+<img src="./assets/images/open-to-learning.gif" title="Open To Learning New Ideas As Well" alt="Open To Learning New Ideas As Well" width="800" height="600" style="display: block; margin: 0 auto" />
 
 ![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustapha-saad&theme=radical&show_icons=true)
 
