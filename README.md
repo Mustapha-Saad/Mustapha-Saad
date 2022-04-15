@@ -21,7 +21,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 
 ## 🗽Stats🗽
 <div style="display:flex; justify-content: space-between; padding:0 200px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustapha-saad&theme=radical&show_icons=true" title="Mustapha's GitHub stats" alt="Mustapha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustapha-saad&theme=radical&show_icons=true" title="Mustapha's GitHub stats" alt="Mustapha's GitHub stats"  style="display: inline-block; margin: 0 200px"/>
   <a href="https://github.com/Mustapha-Saad?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-saad&theme=radical&layout=compact" title="Top Langs" alt="Top Langs" />
   </a>
