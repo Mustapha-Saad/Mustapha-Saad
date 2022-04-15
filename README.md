@@ -19,6 +19,8 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-saad&theme=radical&layout=compact)](https://github.com/Mustapha-Saad?tab=repositories)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-saad&theme=radical&layout=compact)](https://github.com/Mustapha-Saad?tab=repositories)
+
 <img src="./assets/images/open-to-learning.gif" title="I Am Open To Learning New Ideas As Well" alt="I Am Open To Learning New Ideas As Well" style="display: block; background:red; width: 100%; height:250px; margin: 0 auto" />
 
 ![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustapha-saad&theme=radical&show_icons=true)
