@@ -2,7 +2,7 @@
 
 
 ## 👨‍💻 About me 👨‍💻
-Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineering. I am a self taught full-stack web developer and a web designer and I love to solve problems by building on web solutions. I wish to contribute to open source projects on anything concerning the web. If you have one, please do contact me and I'll be more than willing to help.
+Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineering. I am a self taught full-stack web developer, a web designer, and a freelancer where I get to solve problems by building on web solutions. I wish to contribute to open source projects more often on anything concerning the web, so if you have one, please do contact me and I'll be more than willing to help.
 
 ## ✨ Languages and frameworks I know and study ✨
 
