@@ -30,7 +30,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
  
  ## Trophies
  
- [![Trophy](https://github-profile-trophy.vercel.app/?username=mustapha-saad&theme=radical&margin-w=15&margin-h=15&rank=-C,-B, -UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
+ [![Trophy](https://github-profile-trophy.vercel.app/?username=mustapha-saad&theme=radical&margin-w=15&margin-h=15&rank=-C,-B,-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Mustapha-Saad/Mustapha-Saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
