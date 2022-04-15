@@ -41,9 +41,25 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-saad&theme=radical&layout=compact" alt="Top Langs Stat" />
 </a>
  
- ## Trophies
- 
+ ## 🏆Trophies🏆
+ ![WellDoneGoldenTrophyGIF](https://user-images.githubusercontent.com/62049757/163624896-1aa103c0-ff9c-4203-b047-4b4408b40d38.gif)
+
+
  [![Trophy](https://github-profile-trophy.vercel.app/?username=mustapha-saad&theme=radical&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+ ## 👫 Connect With Me On 👫
+ 
+ <a title="Follow Me On LinkedIn" href="https://www.linkedin.com/in/mustapha-sa-ad-9725b01b1/">
+  <img src="https://img.shields.io/badge/LinkedIn-transparent?logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn Account"/>
+ </a>
+ 
+  <a title="I Am On Dribbble Too" href="https://dribbble.com/mustapha-saad">
+  <img src="https://img.shields.io/badge/Dribbble-transparent?logo=dribbble&logoColor=white&color=EA4C89" alt="Dribble Account"/>
+ </a>
+ 
+ <a title="Let's Work Together On Upwork" href="https://www.upwork.com/freelancers/~0188bd246daf599101">
+  <img src="https://img.shields.io/badge/Upwork-transparent?logo=upwork&logoColor=white&color=6FDA44" alt="Upwork Account"/>
+ </a>
 <!--
 **Mustapha-Saad/Mustapha-Saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
