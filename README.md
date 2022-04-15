@@ -21,7 +21,6 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-transparent?logo=bootstrap&logoColor=white&color=7952B3 "Learning Bootstrap")
 ![Sass](https://img.shields.io/badge/Sass-transparent?logo=sass&logoColor=white&color=CC6699 "Learning Sass")
 
-###
 <!--
 **Mustapha-Saad/Mustapha-Saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
