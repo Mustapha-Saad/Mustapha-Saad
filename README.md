@@ -2,7 +2,7 @@
 ## 👫 Connect With Me On 👫
  
  <a title="Follow Me On LinkedIn" href="https://www.linkedin.com/in/mustapha-sa-ad-9725b01b1/">
-  <img src="https://img.shields.io/badge/LinkedIn-transparent?logo=linkedin&logoColor=0A66C2&color=0A66C2&style=social" alt="LinkedIn Account"/>
+  <img src="https://img.shields.io/badge/LinkedIn-transparent?logo=linkedin&logoColor=0A66C2&labelColor=0A66C2&style=social" alt="LinkedIn Account"/>
  </a>
  
   <a title="I Am On Dribbble Too" href="https://www.linkedin.com/in/mustapha-sa-ad-9725b01b1/">
