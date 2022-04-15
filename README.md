@@ -6,7 +6,7 @@
  </a>
  
   <a title="I Am On Dribbble Too" href="https://www.linkedin.com/in/mustapha-sa-ad-9725b01b1/">
-  <img src="https://img.shields.io/badge/LinkedIn-transparent?logo=linkedin&logoColor=white&color=0A66C2&style=social" alt="Dribble Account"/>
+  <img src="https://img.shields.io/badge/Dribbble-transparent?logo=dribbble&logoColor=#EA4C89&labelColor=0A66C2&style=social" alt="Dribble Account"/>
  </a>
  
  <a title="Let's Work Together On Upwork" href="https://www.upwork.com/freelancers/~0188bd246daf599101">
