@@ -11,10 +11,9 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 ![HTML5](https://img.shields.io/badge/HTML5-transparent?logo=HTML5&logoColor=white&color=E34F26 "Learning HTML")
 ![CSS3](https://img.shields.io/badge/CSS3-transparent?logo=CSS3&logoColor=white&color=1572B6 "Learning CSS")
 ![JavaScript](https://img.shields.io/badge/JavaScript-transparent?logo=JavaScript&logoColor=white&color=yellow "Learning JavaScript")
-
-### Top Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-transparent?logo=JavaScript&logoColor=white&color=yellow "Learning JavaScript")
-
+![Angular](https://img.shields.io/badge/Angular-transparent?logo=Angular&logoColor=white&color=DD0031 "Learning Angular")
+![React](https://img.shields.io/badge/Angular-transparent?logo=Angular&logoColor=white&color=DD0031 "Learning React")
+![NodeJs](https://img.shields.io/badge/NodeJs-transparent?logo=Node.js&logoColor=white&color=339933 "Learning NodeJs")
 
 <!--
 **Mustapha-Saad/Mustapha-Saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
