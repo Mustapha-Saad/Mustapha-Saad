@@ -16,6 +16,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 ![MongoDB](https://img.shields.io/badge/MongoDB-transparent?logo=mongodb&logoColor=white&color=47A248 "Learning MongoDB")
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-transparent?logo=bootstrap&logoColor=white&color=7952B3 "Learning Bootstrap")
 ![Sass](https://img.shields.io/badge/Sass-transparent?logo=sass&logoColor=white&color=CC6699 "Learning Sass")
+![Sass](https://img.shields.io/badge/Sass-transparent?logo=sass&logoColor=white&color=CC6699 "Learning Sass")
 
 ![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustapha-saad&theme=radical&show_icons=true)
 
