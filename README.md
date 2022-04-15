@@ -21,7 +21,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 
 ## 🗽Stats🗽
 
-[![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustapha-saad&theme=radical&show_icons=true)](https://github.com/Mustapha-Saad "Mustapha's GitHub stats") [![Top Langs Stat](https://github-readme-stats.vercel.app/api?username=mustapha-saad&theme=radical&show_icons=true)](https://github.com/Mustapha-Saad?tab=repositories "Top Langs Stat")
+[![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustapha-saad&theme=radical&show_icons=true)](https://github.com/Mustapha-Saad "Mustapha's GitHub stats") [![Top Langs Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-saad&layout=compact)](https://github.com/Mustapha-Saad?tab=repositories "Top Langs Stat")
  
 <!--
 **Mustapha-Saad/Mustapha-Saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
