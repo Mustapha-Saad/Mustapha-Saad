@@ -14,6 +14,9 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 ![Angular](https://img.shields.io/badge/Angular-transparent?logo=Angular&logoColor=white&color=DD0031 "Learning Angular")
 ![ReactJs](https://img.shields.io/badge/ReactJs-transparent?logo=React&logoColor=white&color=blue "Learning ReactJs")
 ![NodeJs](https://img.shields.io/badge/NodeJs-transparent?logo=Node.js&logoColor=white&color=339933 "Learning NodeJs")
+![NPM](https://img.shields.io/badge/NPM-transparent?logo=npm&logoColor=white&color=CB3837 "Learning NPM")
+![Git](https://img.shields.io/badge/GIT-transparent?logo=git&logoColor=white&color=F05032 "Learning GIT")
+![Web3Js](https://img.shields.io/badge/Web3Js-transparent?logo=web3.js&logoColor=white&color=F16822 "Learning WebJs")
 
 <!--
 **Mustapha-Saad/Mustapha-Saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
