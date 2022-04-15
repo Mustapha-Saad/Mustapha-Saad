@@ -42,10 +42,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 </a>
  
  ## 🏆Trophies🏆
- ![WellDoneGoldenTrophyGIF](https://user-images.githubusercontent.com/62049757/163624896-1aa103c0-ff9c-4203-b047-4b4408b40d38.gif)
-
-
- [![Trophy](https://github-profile-trophy.vercel.app/?username=mustapha-saad&theme=radical&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+ ![WellDoneGoldenTrophyGIF](https://user-images.githubusercontent.com/62049757/163624896-1aa103c0-ff9c-4203-b047-4b4408b40d38.gif) [![Trophy](https://github-profile-trophy.vercel.app/?username=mustapha-saad&theme=radical&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
  
  ## 👫 Connect With Me On 👫
  
