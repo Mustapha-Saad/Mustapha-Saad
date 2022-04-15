@@ -17,7 +17,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
 ![NPM](https://img.shields.io/badge/NPM-transparent?logo=npm&logoColor=white&color=CB3837 "Learning NPM")
 ![Git](https://img.shields.io/badge/GIT-transparent?logo=git&logoColor=white&color=F05032 "Learning GIT")
 ![Web3Js](https://img.shields.io/badge/Web3Js-transparent?logo=web3.js&logoColor=white&color=F16822 "Learning WebJs")
-![MongoDB](https://img.shields.io/badge/MongoDB-transparent?logo=mongodb.js&logoColor=white&color=47A248 "Learning MongoDB")
+![MongoDB](https://img.shields.io/badge/MongoDB-transparent?logo=mongoDB.js&logoColor=white&color=47A248 "Learning MongoDB")
 
 <!--
 **Mustapha-Saad/Mustapha-Saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
