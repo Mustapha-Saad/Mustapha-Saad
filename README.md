@@ -4,11 +4,7 @@
  <a title="Follow Me On LinkedIn" href="https://www.linkedin.com/in/mustapha-sa-ad-9725b01b1/">
   <img src="https://img.shields.io/badge/LinkedIn-transparent?logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn Account"/>
  </a>
- 
-  <a title="I Am On Dribbble Too" href="https://dribbble.com/mustapha-saad">
-  <img src="https://img.shields.io/badge/Dribbble-transparent?logo=dribbble&logoColor=white&color=EA4C89" alt="Dribble Account"/>
- </a>
- 
+
  <a title="Let's Work Together On Upwork" href="https://www.upwork.com/freelancers/~0188bd246daf599101">
   <img src="https://img.shields.io/badge/Upwork-transparent?logo=upwork&logoColor=white&color=6FDA44" alt="Upwork Account"/>
  </a>
@@ -49,11 +45,7 @@ Hi I am Mustapha Sa'ad, a tech enthusiast currently studying computer engineerin
  <a title="Follow Me On LinkedIn" href="https://www.linkedin.com/in/mustapha-sa-ad-9725b01b1/">
   <img src="https://img.shields.io/badge/LinkedIn-transparent?logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn Account"/>
  </a>
- 
-  <a title="I Am On Dribbble Too" href="https://dribbble.com/mustapha-saad">
-  <img src="https://img.shields.io/badge/Dribbble-transparent?logo=dribbble&logoColor=white&color=EA4C89" alt="Dribble Account"/>
- </a>
- 
+
  <a title="Let's Work Together On Upwork" href="https://www.upwork.com/freelancers/~0188bd246daf599101">
   <img src="https://img.shields.io/badge/Upwork-transparent?logo=upwork&logoColor=white&color=6FDA44" alt="Upwork Account"/>
  </a>
