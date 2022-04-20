@@ -4,9 +4,9 @@
  <a title="Follow Me On LinkedIn" href="https://www.linkedin.com/in/mustapha-sa-ad-9725b01b1/">
   <img src="https://img.shields.io/badge/LinkedIn-transparent?logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn Account"/>
  </a>
-
- <a title="Let's Work Together On Upwork" href="https://www.upwork.com/freelancers/~0188bd246daf599101">
-  <img src="https://img.shields.io/badge/Upwork-transparent?logo=upwork&logoColor=white&color=6FDA44" alt="Upwork Account"/>
+ 
+ <a title="View My Designs On Dribbble" href="https://www.linkedin.com/in/mustapha-sa-ad-9725b01b1/">
+  <img src="https://img.shields.io/badge/Dribbble-transparent?logo=dribbble&logoColor=white&color=purple" alt="LinkedIn Account"/>
  </a>
 
 ## 👨‍💻 About me 👨‍💻
